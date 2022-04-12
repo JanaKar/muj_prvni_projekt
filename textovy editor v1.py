@@ -1,5 +1,12 @@
 # '''
-# author = Jana Karbanova
+
+'''
+textovy editor.py: Prvni projekt do Engeto Online Python Akademie
+
+author: Jana Karbanova
+email: xkarbanovaj@gmail.com
+discord: JanaK#0342
+'''
 # '''
 TEXTS = ['''
 Situated about 10 miles west of Kemmerer,
