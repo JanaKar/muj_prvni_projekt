@@ -2,7 +2,6 @@
 
 '''
 textovy editor.py: Prvni projekt do Engeto Online Python Akademie
-
 author: Jana Karbanova
 email: xkarbanovaj@gmail.com
 discord: JanaK#0342
